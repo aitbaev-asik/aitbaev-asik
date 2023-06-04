@@ -37,6 +37,9 @@ Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOC
 </p>
 
 
+------------------------------------------------------------------------------------------------------
+
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Asik-prince/badges/large)
