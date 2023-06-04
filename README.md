@@ -11,7 +11,8 @@ Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOC
 
 <p align="left"> <a href="https://www.github.com/aitbaev-asik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aitbaev_asik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aitbaev_asik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
----
+------------------------------------------------------------------------------------------------------
+
 
 ### 💻 Технологии:
 
@@ -25,7 +26,7 @@ Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOC
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
----
+---------------------------------------------------------------------------------------------------------
 
 ### 🛠 Инструменты:
 
@@ -33,6 +34,7 @@ Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOC
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+
 
 ### 💻 Codewars:
 
